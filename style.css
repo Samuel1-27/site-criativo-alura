@@ -15,7 +15,7 @@ body {
 }
 
 .cabecalho-imagem{
-    width: 10%;
+    width: 80%;
 }
 
 .cabecalho-lista-item{
@@ -25,7 +25,7 @@ body {
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 75%;
 }
 
 .escola{
@@ -38,7 +38,7 @@ body {
 }
 
 .escola-div-conteudo{
-    width: 35%;
+    width: 40%;
 }
 
 
@@ -50,7 +50,7 @@ body {
     padding: 24px 0;
 }
 .estudante-imagem{
-    width: 120px;
+    width: 35%;
 }
 
 .estudante-icone{
@@ -61,4 +61,8 @@ body {
 .estudante-div{
     text-align: center;
     padding: 16px 0;
+}
+.rodape-imagem{
+    width: 50%;
+    align-items: center;
 }
