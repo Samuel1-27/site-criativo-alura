@@ -4,9 +4,10 @@
 }
 body {
     font-family: 'Poppins', sans-serif;
+    background-color: #0899d3;
 }
 .cabecalho {
-    background-color: #424E61;
+    background-color: #111113;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -25,7 +26,7 @@ body {
 }
 
 .escola-imagem{
-    width: 75%;
+    width: 30%;
 }
 
 .escola{
@@ -50,7 +51,7 @@ body {
     padding: 24px 0;
 }
 .estudante-imagem{
-    width: 35%;
+    width: 48px;
 }
 
 .estudante-icone{
@@ -63,6 +64,11 @@ body {
     padding: 16px 0;
 }
 .rodape-imagem{
-    width: 50%;
-    align-items: center;
+    height: 60px;
+    padding: 12px 0;
+
+}
+.rodape{
+    background-color: black;
+    text-align: center;
 }
